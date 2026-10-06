@@ -1,0 +1,6 @@
+{
+  "name": "EcoWrite – Green Stationery Kit",
+  "description": "Meet EcoWrite — the stationery kit that gives everyday writing a second life. Write. Erase. Plant. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
